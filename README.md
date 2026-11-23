@@ -1,19 +1,16 @@
-<!-- PROFILE README — aryan-mirdamadi -->
+<!-- GitHub Profile README | Aryan Mirdamadi -->
 
 <div align="center">
 
 # Aryan Mirdamadi
 
-### Computer Engineering Student · Developer in Progress
+### Computer Engineering Student | Aspiring Mechatronics & Robotics Developer
 
-Building, learning, and turning ideas into practical software.
+Interested in programming, intelligent systems, automation, and the connection between software and the physical world.
 
 <p>
   <a href="https://github.com/aryan-mirdamadi">
-    <img src="https://img.shields.io/badge/GitHub-aryan--mirdamadi-25312D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://filopetshop.ir">
-    <img src="https://img.shields.io/badge/Project-Filo-237A57?style=for-the-badge" alt="Filo project" />
+    <img src="https://img.shields.io/badge/GitHub-aryan--mirdamadi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -21,66 +18,64 @@ Building, learning, and turning ideas into practical software.
 
 ---
 
-## A little about me
+## About
 
-I'm a Computer Engineering student interested in software development, data, and artificial intelligence. I enjoy learning by building projects, understanding how systems work, and improving ideas step by step.
+I am a Computer Engineering student building my foundations in software development and exploring how computing can be applied to intelligent machines and real-world systems.
 
-My current focus is on strengthening my foundations in programming and turning what I learn into useful, well-documented projects.
+My interests include **C++ programming, Python, mechatronics, robotics, automation, and artificial intelligence**. I learn through structured study, experimentation, and building practical projects.
 
-## What I'm exploring
+I value clear engineering principles, maintainable code, and honest documentation of what I have learned and built.
 
-- **Programming:** Python and practical problem solving
-- **Data:** Data analysis with Python and Excel
-- **Computer Science:** Algorithms, databases, and software design
-- **Interests:** Artificial intelligence, automation, and web technologies
+## Current Learning Focus
 
-## Selected projects
+- **C++:** Programming fundamentals and object-oriented programming
+- **Python:** Programming and practical problem solving
+- **Computer Science:** Algorithms, data structures, databases, and software design
+- **Mechatronics:** Electronics, sensors, actuators, and control systems
+- **Robotics:** Exploring robot software, embedded systems, and automation
+- **Data:** Foundations of data analysis with Python and Excel
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/aryan-mirdamadi/Filo">Filo</a></h3>
-      <p>An e-commerce project focused on launching and supporting an online pet shop, built around the WordPress and WooCommerce ecosystem.</p>
-      <sub>WordPress · WooCommerce · Elementor</sub>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/aryan-mirdamadi/Feego_Agent">Feego Agent</a></h3>
-      <p>An early-stage personal assistant concept exploring task-oriented automation and a mobile-first experience.</p>
-      <sub>Learning · Prototyping · Automation</sub>
-    </td>
-  </tr>
-</table>
+## Areas of Interest
 
-## Currently learning
+| Area | Topics |
+| --- | --- |
+| Software Development | C++, Python, problem solving |
+| Robotics & Mechatronics | Robot systems, sensors, motion, control |
+| Artificial Intelligence | Machine learning, computer vision |
+| Automation | Embedded systems, intelligent devices |
+| Data Science | Data analysis, data visualization |
 
-```text
-Python          █████░░░░░  Learning
-Data Analysis   ████░░░░░░  Learning
-Algorithms      ████░░░░░░  Building foundations
-Web Development █████░░░░░  Practicing
-```
+## Projects
 
-These are personal learning indicators, not formal skill ratings.
+### [Feego Agent](https://github.com/aryan-mirdamadi/Feego_Agent)
 
-## My approach
+An early-stage personal assistant project focused on a mobile-first experience, task management, and practical automation.
 
-- Learn the fundamentals before reaching for shortcuts.
-- Build small, understandable projects.
-- Write documentation that makes work easier to revisit.
-- Improve through practice, feedback, and iteration.
+### [Filo](https://github.com/aryan-mirdamadi/Filo)
 
-## GitHub activity
+An e-commerce project focused on building and supporting an online pet-shop platform.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-mirdamadi&show_icons=true&hide_border=true&title_color=237A57&icon_color=E98B3A&text_color=25312D&bg_color=FAF6EE" alt="GitHub statistics" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-mirdamadi&layout=compact&hide_border=true&title_color=237A57&text_color=25312D&bg_color=FAF6EE" alt="Most used languages" />
-</div>
+## Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+## Learning Philosophy
+
+- Understand the fundamentals before moving to advanced topics.
+- Learn by writing code and building practical projects.
+- Experiment, test, document, and improve.
+- Share progress transparently and keep learning.
 
 ---
 
 <div align="center">
 
-**Thanks for visiting. I'm learning in public, one project at a time.**
+**Building knowledge through code, engineering, and continuous practice.**
 
 </div>
