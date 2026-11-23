@@ -45,15 +45,28 @@ I value clear engineering principles, maintainable code, and honest documentatio
 | Automation | Embedded systems, intelligent devices |
 | Data Science | Data analysis, data visualization |
 
-## Projects
+## Vision: Agricultural Robotics & Smart Greenhouses
 
-### [Feego Agent](https://github.com/aryan-mirdamadi/Feego_Agent)
+My long-term engineering vision is to contribute to the development of **professional agricultural robots and intelligent greenhouse systems**. I am particularly interested in combining mechatronics, embedded systems, computer vision, AI, and automation to help make agriculture more precise, efficient, and sustainable.
 
-An early-stage personal assistant project focused on a mobile-first experience, task management, and practical automation.
+The direction I want to explore includes:
 
-### [Filo](https://github.com/aryan-mirdamadi/Filo)
+- **Autonomous agricultural drones:** indoor navigation, crop monitoring, imaging, and precision operations.
+- **Smart greenhouse systems:** environmental sensing and automated control of temperature, humidity, lighting, ventilation, and irrigation.
+- **Agricultural robotics:** mobile platforms and robotic mechanisms for inspection, planting, harvesting, and repetitive tasks.
+- **Computer vision & AI:** plant-health analysis, early detection of stress or disease, growth monitoring, and data-driven decisions.
+- **Integrated control systems:** connecting sensors, actuators, embedded controllers, and software into reliable systems.
 
-An e-commerce project focused on building and supporting an online pet-shop platform.
+These are long-term areas of learning and development—not claims of completed products or professional experience. My goal is to build the knowledge and practical engineering skills needed to turn these ideas into real systems.
+
+### Greenhouse Drone Technology
+
+<p align="center">
+  <img src="https://s3.amazonaws.com/files.greenhousegrower.com/greenhousegrow/wp-content/uploads/2025/05/Closeup-of-an-orange-drone-in-a-greenhous-setting-from-Corvus-Drones.jpg" width="49%" alt="Autonomous drone operating inside a greenhouse" />
+  <img src="https://www.mdpi.com/drones/drones-10-00205/article_deploy/html/images/drones-10-00205-g001.png" width="49%" alt="Greenhouse UAV monitoring research and drone platform" />
+</p>
+
+<sub>Visual references: <a href="https://www.greenhousegrower.com/technology/the-status-of-drone-tech-in-the-greenhouse-market/">Greenhouse Grower — Drone technology in greenhouses</a> · <a href="https://www.mdpi.com/2504-4464/10/3/205">MDPI — Visual SLAM-based UAV system for greenhouse monitoring</a></sub>
 
 ## Tools & Technologies
 
@@ -76,6 +89,6 @@ An e-commerce project focused on building and supporting an online pet-shop plat
 
 <div align="center">
 
-**Building knowledge through code, engineering, and continuous practice.**
+**Building knowledge through code, robotics, and engineering for smarter agriculture.**
 
 </div>
