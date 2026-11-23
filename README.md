@@ -51,7 +51,7 @@ My long-term engineering vision is to contribute to the development of **profess
 
 The direction I want to explore includes:
 
-- **Autonomous agricultural drones:** indoor navigation, crop monitoring, imaging, and precision operations.
+- **Autonomous agricultural drones:** crop monitoring, imaging, navigation, and precision operations.
 - **Smart greenhouse systems:** environmental sensing and automated control of temperature, humidity, lighting, ventilation, and irrigation.
 - **Agricultural robotics:** mobile platforms and robotic mechanisms for inspection, planting, harvesting, and repetitive tasks.
 - **Computer vision & AI:** plant-health analysis, early detection of stress or disease, growth monitoring, and data-driven decisions.
@@ -59,14 +59,18 @@ The direction I want to explore includes:
 
 These are long-term areas of learning and development—not claims of completed products or professional experience. My goal is to build the knowledge and practical engineering skills needed to turn these ideas into real systems.
 
-### Greenhouse Drone Technology
+### Agricultural Drone Technology
 
 <p align="center">
-  <img src="https://s3.amazonaws.com/files.greenhousegrower.com/greenhousegrow/wp-content/uploads/2025/05/Closeup-of-an-orange-drone-in-a-greenhous-setting-from-Corvus-Drones.jpg" width="49%" alt="Autonomous drone operating inside a greenhouse" />
-  <img src="https://www.mdpi.com/drones/drones-10-00205/article_deploy/html/images/drones-10-00205-g001.png" width="49%" alt="Greenhouse UAV monitoring research and drone platform" />
+  <a href="https://commons.wikimedia.org/wiki/File:Agriculture_drone_new_technology.jpg">
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Agriculture_drone_new_technology.jpg?width=1200" width="48%" alt="High-resolution agricultural drone photograph" />
+  </a>
+  <a href="https://commons.wikimedia.org/wiki/File:Automated_Greenhouse_System.jpg">
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Automated_Greenhouse_System.jpg?width=1200" width="48%" alt="Automated greenhouse system with indoor transport and handling equipment" />
+  </a>
 </p>
 
-<sub>Visual references: <a href="https://www.greenhousegrower.com/technology/the-status-of-drone-tech-in-the-greenhouse-market/">Greenhouse Grower — Drone technology in greenhouses</a> · <a href="https://www.mdpi.com/2504-4464/10/3/205">MDPI — Visual SLAM-based UAV system for greenhouse monitoring</a></sub>
+<sub>Image sources: <a href="https://commons.wikimedia.org/wiki/File:Agriculture_drone_new_technology.jpg">Agriculture drone new technology</a> (CC BY-SA 4.0) · <a href="https://commons.wikimedia.org/wiki/File:Automated_Greenhouse_System.jpg">Automated Greenhouse System</a> (CC BY 4.0).</sub>
 
 ## Tools & Technologies
 
